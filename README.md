@@ -54,7 +54,7 @@ Traditional healthcare systems rely on centralized storage, which makes them pro
 3. **Configure environment variables**:
    ```bash
    PINATA_API_KEY=your_pinata_api_key
-  PINATA_API_SECRET=your_pinata_api_secret
+   PINATA_API_SECRET=your_pinata_api_secret
 
 ## **Running the Project**
 
@@ -68,8 +68,8 @@ Traditional healthcare systems rely on centralized storage, which makes them pro
 
 3. **Run Frontend**:
    ```bash
-  cd frontend
-  npm start
+     cd frontend
+     npm start
 
 4. **Open your browser at http://localhost:3000 and interact with the app**:
 
